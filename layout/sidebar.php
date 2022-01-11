@@ -47,7 +47,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="./index.html" class="nav-link">
+                <a href="./" class="nav-link">
                 <i class="fas fa-home"></i>
                   <p>หน้าแรก</p>
                 </a>
@@ -55,7 +55,7 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a href="pages/widgets.html" class="nav-link">
+            <a href="./" class="nav-link">
             <i class="fas fa-users"></i>
               <p>
                 จัดการสมาชิก
